@@ -1,0 +1,10 @@
+html {
+  background: url(https://i.giphy.com/media/SCCjSLGQKfu6I/giphy.webp)
+no-repeat center center fixed;
+background-size: cover;
+}
+img{
+  border: solid black;
+  height:200px;
+  width: 200px;
+}
